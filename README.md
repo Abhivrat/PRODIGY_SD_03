@@ -29,9 +29,4 @@ Develop a GUI-based Contact Management System using C++ and the Win32 API that a
 - IDE: Visual Studio
 - File Format: `.txt` or `.csv` for data persistence
 
-## 📸 Screenshots
-
-> *(Insert screenshots of your application GUI here, e.g., contact form, list view, etc.)*
-
-## 📂 Folder Structure
 
